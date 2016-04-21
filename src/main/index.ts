@@ -6,7 +6,7 @@ const app: Electron.App = electron.app;
 
 let MainWindow: Electron.BrowserWindow;
 
-const ipc = Require( 'ipc' );
+const ipc = electron.ipcMain;
 
 //declare const electron: Electron.CommonElectron;
 
