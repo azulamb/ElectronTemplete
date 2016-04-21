@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "debug": "gulp debug",
+    "release": "gulp release",
+    "run": "electron ./app",
+    "pack": "asar pack ./app ./app.asar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HirokiMiyaoka/Pankt.git"
+  },
+  "author": "Hiroki",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.12.1"
+  }
+}

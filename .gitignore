@@ -1,0 +1,8 @@
+node_modules/*
+typings/*
+release/*
+debug/*
+cache/*
+app/*
+*.log
+app.asar
