@@ -62,3 +62,5 @@ Build app(release). Output `release/`.
 ```sh
 npm run release
 ```
+
+## Connection of Main process and Render process
