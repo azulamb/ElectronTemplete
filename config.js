@@ -4,7 +4,7 @@ module.exports = function( packageData )
 {
 	var data =
 	{
-		name: 'Pankt',
+		name: 'Template',
 		src:
 		{
 			html: './src/html',
