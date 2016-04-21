@@ -1,6 +1,6 @@
 # ElectronTemplete
 
-Electron template based TypeScript.
+Electron template base of TypeScript.
 
 ## Prepare
 
