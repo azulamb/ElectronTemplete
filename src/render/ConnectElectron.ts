@@ -1,7 +1,7 @@
 /// <reference path="../common/Common.ts" />
 
 const electron: Electron.CommonElectron = Require( 'electron' );
-const ipc = Require('ipc');
+const ipc = Require( 'electron' ).ipcRenderer;
 
 class ConnectElectron
 {
