@@ -121,7 +121,7 @@ function Version()
 
 function About()
 {
-	require( 'electron' ).shell.openExternal( 'https://hirokimiyaoka.github.io/Pankt/' );
+	require( 'electron' ).shell.openExternal( 'http://electron.atom.io/' );
 }
 
 function InstallMenu()

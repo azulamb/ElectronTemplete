@@ -40,7 +40,7 @@ module.exports = function( packageData )
 		},
 		electron:
 		{
-			version: "0.37.6",
+			version: '0.37.8',
 			packager: 'electron-packager',
 			params:
 			[
